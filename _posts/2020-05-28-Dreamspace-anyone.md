@@ -5,7 +5,7 @@ title: Dreamspace, anyone?
 
 Yesterday evening I was browsing my book shelf for some light reading and I ended up pulling Hillfolk, Robin D. Laws' game of iron age drama (a role-playing game).
 
-Laws' DramaSystem is intriguing for me, even though it seems to be quite system-heavy judging from how it reads to me.
+Laws' DramaSystem is intriguing for me. Character-driven drama is one of the things I like in role-playing games. DramaSystem reads like a quite system-heavy game, but I guess one does not know before trying it out.
 
 But, there was another thing in the book that really caught my attention: an alternate setting, Dreamspace by Keith Baker.
 
@@ -28,8 +28,4 @@ What's not to like? Here are some concepts I find intriguing:
 * the members of the crew have different motivations for being there
 * the game starts with a bang: something has gone wrong and the vessel is lost in the collective unconsciousness – how can the crew save themselves and who is to blame?
 
-# let's give it a spin?
-
-I'm seriously thinking about trying this out in practice. Maybe online, as things are how they are right now.
-
-Are you interested? Give me a shout!
+There is some intense imagination fuel there.
