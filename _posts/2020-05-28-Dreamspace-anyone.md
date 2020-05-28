@@ -26,7 +26,7 @@ What's not to like? Here are some concepts I find intriguing:
 * In all worlds, there are Sleeping Beauties, whose endless dreams serve as stepping stones for journeys
 * The whole journey is influenced by the pilot's unconsciousness as the vessel is wrapped in the dreams of the pilot
 * the members of the crew have different motivations for being there
-* the game starts with a bang: something has gone wrong and the vessel is lost in the collective uncosnciousness – how can the crew save themselves and who is to blame?
+* the game starts with a bang: something has gone wrong and the vessel is lost in the collective unconsciousness – how can the crew save themselves and who is to blame?
 
 # let's give it a spin?
 
