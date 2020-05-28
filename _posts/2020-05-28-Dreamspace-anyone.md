@@ -3,7 +3,7 @@ layout: post
 title: Dreamspace, anyone?
 ---
 
-Yesterday evening I was browsing my book shelf* fro some light reading and I ended up pulling Hillfolk, Robin D. Laws' game of iron age drama (a role-playing game).
+Yesterday evening I was browsing my book shelf for some light reading and I ended up pulling Hillfolk, Robin D. Laws' game of iron age drama (a role-playing game).
 
 Laws' DramaSystem is intriguing for me, even though it seems to be quite system-heavy judging from how it reads to me.
 
