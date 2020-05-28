@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Antti Kirjavainen. I am a playful and kind seeker of wisdom who promotes appreciation of people, nature and healthy relationships between them. 
+My name is Antti Kirjavainen. 
 
 I'm a co-founder of [Flowa](https://www.flowa.fi/), a coach, collaboration gardener and a human being.
 
@@ -21,6 +21,6 @@ I'm into:
 * nature (seaside, lakes, national parks)
 * etc.
 
-Surprisingly long list, wow.
+Surprisingly long list, wow. And that's some of the stuff I'll be writing about here.
 
 You can contact me through Twitter or from [Flowa](https://www.flowa.fi/)'s pages.
