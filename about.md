@@ -17,7 +17,7 @@ I'm into:
 * tv series (The Expanse!),
 * books (genre books mostly, but other stuff as well),
 * movies (from superhero romps to indie films),
-* physical culture (bodyweight, kettlebells, silly dance moves etc.)
+* physical culture (bodyweight, kettlebells, biking, silly dance moves etc.)
 * nature (seaside, lakes, national parks)
 * etc.
 
