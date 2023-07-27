@@ -49,8 +49,8 @@ If you want to try these out, you can find my scene prep sheet files [here](/ima
 
 # Advice from Meguey Baker on running Under Hollow Hills oneshots
 
-[Meguey Baker](https://en.wikipedia.org/wiki/Meguey_Baker) 
-[wrote some useful advice on running Under Hollow Hills oneshots](https://discord.com/channels/520080215050027019/624213948132098058/1121202777415229502) 
+[Meguey Baker](https://en.wikipedia.org/wiki/Meguey_Baker) wrote 
+[some useful advice on running Under Hollow Hills oneshots](https://discord.com/channels/520080215050027019/624213948132098058/1121202777415229502) 
 on the [UHH Discord](https://discord.gg/H2vvNJDh) the other day. Here is two things I took away from that.
 
 First is to describe the occasion that the circus troupe is traveling to for the oneshot to the players before they create (or polish) their characters. 
