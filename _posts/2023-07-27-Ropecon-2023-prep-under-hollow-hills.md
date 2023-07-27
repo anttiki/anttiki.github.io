@@ -61,7 +61,7 @@ And having NPCs interact with the player characters briefly to start things up.
 
 And of course I have incorporated both of those things for my oneshot prep. Let's see how it goes.
 
-## Circus imagery
+# Circus imagery
 
 Finally, I want to give all the players some food for thought to plan their circus performance. 
 As you might know, in every Under Hollow Hills session the player characters plan and run a circus performance. 
