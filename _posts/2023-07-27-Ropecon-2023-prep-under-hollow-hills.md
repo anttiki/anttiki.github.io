@@ -3,8 +3,6 @@ layout: post
 title: My Ropecon 2023 Prep for Under Hollow Hills
 ---
 
-Prep for Ropecon 2023 oneshots - Under Hollow Hills
-
 I’m going to GM three TTRPG oneshots in [Ropecon](https://ropecon.fi/) this summer: two sessions of 
 [Night of Blood (Warhammer Fantasy / Forged in the Dark oneshot)](https://cubicle7games.com/night-of-blood-pdf) and 
 one session of [Under Hollow Hills](https://lumpley.games/under-hollow-hills-about-the-game/).
