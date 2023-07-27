@@ -17,6 +17,7 @@ Meguey and Vincent Baker about a fairy circus. The circus travels both the fairy
 performs in different occasions. And each of its performance changes the audience. And maybe also the performers.
 
 ![Photo: Clubture Network, CC BY-SA 3.0, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/2/25/Caravan_of_the_Dark_Circus_Night_in_Rijeka.jpg)
+*[Photo](https://commons.wikimedia.org/wiki/File:Caravan_of_the_Dark_Circus_Night_in_Rijeka.jpg): Clubture Network, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons*
 
 *Btw I have translated some of the Under Hollow Hills playbooks to Finnish. You can find them 
 [here](https://anttiki.github.io/Under-Hollow-Hillsia-suomeksi/).*
@@ -40,13 +41,13 @@ To mitigate that I wanted to really focus on giving myself fresh options and mat
 
 To do this, I came up with these scene prep sheets. 
 
-![Photo: Clubture Network, CC BY-SA 3.0, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/2/25/Caravan_of_the_Dark_Circus_Night_in_Rijeka.jpg)
+![My Under Hollow Hills scene prep sheets in action](/images/uhh-scene-prep-sheet.jpg)
 
 They have room for story synopsis (the spine of the scene), 
 imagery (that I could draw from to describe different things), options (seeds for stuff to use while improvising) and 
 2 NPC descriptions. I filled one for every major scene I have planned for the oneshot.
 
-If you want to try these out, you can find my scene prep sheet files here.
+If you want to try these out, you can find my scene prep sheet files [here](/images/uhh-scene-prep.pdf).
 
 # Advice from Meguey Baker on running Under Hollow Hills oneshots
 
@@ -68,7 +69,7 @@ Finally, I want to give all the players some food for thought to plan their circ
 As you might know, in every Under Hollow Hills session the player characters plan and run a circus performance. 
 The performance has the power to influence the audience, so it is a big deal. 
 
-![Photo: Clubture Network, CC BY-SA 3.0, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/2/25/Caravan_of_the_Dark_Circus_Night_in_Rijeka.jpg)
+![Circus illustration](/images/circus-image.png)
 
 Not every player is as familiar with circus as the others, so I want to level the playing field. 
 Towards that end I have printed out a set of circus photos I found online. Just to give players some new ideas, I hope. 
