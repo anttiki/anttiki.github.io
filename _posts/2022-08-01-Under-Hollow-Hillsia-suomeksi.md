@@ -29,7 +29,7 @@ Jaan suomennokseni PDF:nä [tässä](/images/uhh-pelikirjat-siirrot-esityksen-aj
 Eikä pelkillä pelikirjoilla voi peliä tietysti pelatakaan. Sitä vaeten kannattaa hankkia [pelin alkuperäinen ohjekirja-pdf](https://lumpley.games/under-hollow-hills/).
 
 Tein suomennokset melko nopeasti, vaikkakaan en kiireellä. Olen myös kiinnostunut suomentamaan loput pelikirjat sekä parantamaan suomennoksia. 
-Jos sinulle tulee mieleen parannusehdotuksia taikka haluat auttaa suomennosurakassa niin minut saa kiinni esim. [Twitteristä (@anttiki)](https://twitter.com/anttiki) taikka Discordista (anttiki#2779).
+Jos sinulle tulee mieleen parannusehdotuksia taikka haluat auttaa suomennosurakassa niin minut saa kiinni esim. [Twitteristä (@anttiki)](https://twitter.com/anttiki) taikka Discordista (anttiki).
 
 # Pelattaisko?
 
