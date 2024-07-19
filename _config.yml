@@ -3,11 +3,11 @@
 #
 
 # Name of your site (displayed in the header)
-name: Antti Kirjavainen posts stuff
+name: Antigui's game blog
 
 
 # Short bio or description (displayed in the header)
-description: I'm a playful and kind seeker of wisdom who promotes appreciation of people, nature and healthy relationships between them. Here I  post stuff. Stuff not directly related to what I do during the day at Flowa. So, (not serious) games, pop culture, books, that kind of stuff.
+description: Creator, player and GM of #TTRPGs. I also play board games and vieo games from time to time. This blog is mostly about role-playing games.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://en.gravatar.com/userimage/151108260/97cfc8db28fd02a1485cc135ba544e9f.jpg?size=200
@@ -27,7 +27,7 @@ footer-links:
   linkedin: https://www.linkedin.com/in/anttikirjavainen
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: anttiki
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
