@@ -23,4 +23,4 @@ I'm into:
 
 Surprisingly long list, wow. And that's some of the stuff I'll be writing about here.
 
-You can contact me through Twitter or from [Flowa](https://www.flowa.fi/)'s pages.
+You can contact me through [Flowa](https://www.flowa.fi/)'s pages.
