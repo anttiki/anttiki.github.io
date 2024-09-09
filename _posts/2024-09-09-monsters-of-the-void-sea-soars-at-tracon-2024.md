@@ -26,6 +26,8 @@ As the GM, I was surprised multiple times by the plot twists and the players' ru
 The one-shot is a co-operative one, where I as the GM throw a lot of questions back to the players. It is a different style of playing a murder mystery, 
 comparable to Brindlewood Bay, but not precisely the same.
 
+# Conclusion
+
 All of this made it clear to me that I have to get all of this down in a playtest version of Monsters of the Void Sea soon. 
 And hopefully in the hands of some GMs who are willing to run it and give me some feedback.
 
