@@ -11,6 +11,8 @@ This was my first time at [Tracon](https://2024.tracon.fi/). I was going last ye
 
 # Monsters of the Void Sea
 
+![Menu](https://anttiki.github.io/images/MotVS-menu.png "Menu")
+
 This year, I hosted a session of Monsters of the Void Sea, a Victorian ghostpunk murder mystery one-shot of my own design. 
 It is set in (or near) Doskvol, the setting of the [Blades in the Dark](https://bladesinthedark.com/) role-playing game. 
 It also uses a simplified version of [Blades in the Dark](https://bladesinthedark.com/)'s rules.
