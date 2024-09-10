@@ -2,6 +2,7 @@
 layout: post
 title: Monsters of the Void Sea soars at Tracon 2024
 ---
+![Menu](https://anttiki.github.io/images/MotVS-menu.png "Menu")
 
 Had a blast hosting a session of my TTRPG murder mystery oneshot at [Tracon](https://2024.tracon.fi/) last Saturday!
 
@@ -10,8 +11,6 @@ Had a blast hosting a session of my TTRPG murder mystery oneshot at [Tracon](htt
 This was my first time at [Tracon](https://2024.tracon.fi/). I was going last year as well, but got down with a flu at the last moment. 
 
 # Monsters of the Void Sea
-
-![Menu](https://anttiki.github.io/images/MotVS-menu.png "Menu")
 
 This year, I hosted a session of Monsters of the Void Sea, a Victorian ghostpunk murder mystery one-shot of my own design. 
 It is set in (or near) Doskvol, the setting of the [Blades in the Dark](https://bladesinthedark.com/) role-playing game. 
