@@ -25,6 +25,19 @@ As the GM, I was surprised multiple times by the plot twists and the players' ru
 The one-shot is a co-operative one, where I as the GM throw a lot of questions back to the players. It is a different style of playing a murder mystery, 
 comparable to Brindlewood Bay, but not precisely the same.
 
+# Pretty pictures
+
+![Inspector Renout and 'Fell' Fjelde](https://anttiki.github.io/images/inspector-renout-fell.jpg "Inspector Renout and 'Fell' Fjelde")
+
+
+One of the players, Vilma Vaikka ([vilmavaikka](https://www.instagram.com/vilmavaikka/) on Instagram) drew portraits of all the player characters during our game. I'm sharing them with her permission.
+
+![The Fabulous Andrine and Dr. Joselyn Swan](https://anttiki.github.io/images/fabulous-andrine-dr-swan.jpg "The Fabulous Andrine and Dr. Joselyn Swan")
+
+And aren't they gorgeous?
+
+The nice thing about the oneshot IMHO is that all the characters are pregens, but in every session players come up with different descriptions of their looks and outfits.
+
 # Conclusion
 
 All of this made it clear to me that I have to get all of this down in a playtest version of Monsters of the Void Sea soon. 
