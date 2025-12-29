@@ -11,7 +11,7 @@ Kirjoitin tämän julkaisun alun perin [MajataloConin sivuille](https://www.maja
 
 # Tännehän voisi vaan jäädä asumaan
 
-Ensimmäinen, tai jopa järjestysnumeroltaan ensimmäistä edeltävä, kokeellinen MajataloCon 0 tapahtui 14.-16.11. Tässä summaus MajataloCon-viikonlopusta.
+Ensimmäinen, tai jopa järjestysnumeroltaan ensimmäistä edeltävä, kokeellinen [MajataloCon 0](https://majatalocon.fi/) tapahtui 14.-16.11. Tässä summaus MajataloCon-viikonlopusta.
 
 ![](https://www.majatalocon.fi/content/images/size/w1200/2025/11/IMG_20251114_221424-COLLAGE.jpg)
 
